@@ -7,7 +7,25 @@
 		<key>CustomCollectionView.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8950AF9720CA28B70088B964</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8950AFAF20CA28B70088B964</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8950AFBA20CA28B70088B964</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
